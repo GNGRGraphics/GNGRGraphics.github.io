@@ -141,6 +141,16 @@ body {
   gap: 34px;
 }
 
+/* New section for YouTube link centering */
+#youtube-section {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically if needed */
+  height: 100vh; /* Full viewport height if needed */
+  margin: 0; /* Remove margins */
+}
+
+
     /* Project Gallery */
 
     #project-gallery {
